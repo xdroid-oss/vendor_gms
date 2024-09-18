@@ -18,4 +18,9 @@
         <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
         <item>com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService</item>
     </string-array>
+
+    <!-- Sound picker package name -->
+    <string name="config_sound_picker_package_name" translatable="false">
+        com.google.android.soundpicker
+    </string>
 </resources>
