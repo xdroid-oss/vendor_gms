@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Kad ierīce ir taisni/notiek uzlāde</string>
+    <string name="screensaver_settings_summary_sleep">Uzlādes laikā</string>
+    <string name="when_to_show_hubmode_charging">Uzlādes laikā</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Kad ierīce ir novietota taisni un tiek uzlādēta</string>
+    <string name="when_to_show_hubmode_docked">Kamēr tiek dokota</string>
+    <string name="when_to_show_hubmode_never">Nekad</string>
+</resources>

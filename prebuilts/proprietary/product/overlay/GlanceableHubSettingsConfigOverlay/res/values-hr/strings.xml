@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screensaver_settings_summary_postured_and_charging">Tijekom držanja uspravno i punjenja</string>
+    <string name="screensaver_settings_summary_sleep">Tijekom punjenja</string>
+    <string name="when_to_show_hubmode_charging">Tijekom punjenja uređaja</string>
+    <string name="when_to_show_hubmode_charging_and_upright">Tijekom punjenja i držanja uspravno</string>
+    <string name="when_to_show_hubmode_docked">Kad je uređaj na priključnoj stanici</string>
+    <string name="when_to_show_hubmode_never">Nikad</string>
+</resources>
