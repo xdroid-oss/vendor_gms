@@ -1,6 +1,5 @@
 PRODUCT_PACKAGES += \
     PixelAccessibilityMenu \
-    AvatarPickerPixelOverlay \
     PixelBuiltInPrintService \
     CellBroadcastReceiverOverlay \
     CellBroadcastServiceOverlay \
