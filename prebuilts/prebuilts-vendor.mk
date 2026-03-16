@@ -189,10 +189,8 @@ PRODUCT_PACKAGES += \
     SoundPickerPrebuilt_32000122 \
     SwitchAccessPrebuilt_1.16.0.726766860 \
     talkback \
-    AICorePrebuilt-aicore_20250130.00_RC01 \
     AmbientStreaming \
     ConfigUpdater \
-    CreativeAssistant \
     DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02 \
     DevicePersonalizationPrebuiltPixel2024-bfinal_aiai_20250217.00_RC08 \
     FilesPrebuilt \
